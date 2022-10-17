@@ -1,0 +1,5 @@
+A primeira imagem tem 36 alunos, sendo 18 alunos para cada matéria. A segunda imagem tem 36 alunos, mas 19 gostam português e 17, de matemática. Assim, ele concluiu que um aluno que gostava de matemática foi trocado por um que gosta de português.
+
+Se decompusermos a tabela em linhas ou colunas, conseguimos identificar um padrão na qual temos 4 alunos que gostam de uma matéria e dois que gostam da outra.
+
+Ao analisar as linhas e colunas ele percebeu que uma linha e uma coluna não seguiam o padrão inicial, ele concluiu que na carteira onde essa linha e coluna se cruzam houve a troca de aluno. 
